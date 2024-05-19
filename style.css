@@ -1,1 +1,48 @@
+body {
+    font-family: sans-serif;
+}
 
+h1{
+    text-align: center;
+    color: white;
+    background-color: rgb(240, 189, 126);
+}
+
+nav {
+    display: flex;
+    justify-content:space-around ;
+}
+
+.link-nav{
+    text-decoration: none;
+    background-color: rgba(255, 250, 205, 0.553);
+    padding: 10px;
+    color:rgb(238, 196, 71);
+    border-radius: 25px;
+}
+
+header {
+    height: 45px;
+}
+
+header a {
+    background-color: rgb(235, 188, 70);
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 25px;
+}
+
+footer{
+    height: 30px;
+    width: 30px;
+}
+
+li{
+    color: bisque;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(235, 188, 70);
+}
